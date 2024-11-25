@@ -1,0 +1,7 @@
+C:\Users\stask\source\repos\console\console\obj\Debug\console.csproj.AssemblyReference.cache
+C:\Users\stask\source\repos\console\console\obj\Debug\console.csproj.CoreCompileInputs.cache
+C:\Users\stask\source\repos\console\console\bin\Debug\console.exe.config
+C:\Users\stask\source\repos\console\console\bin\Debug\console.exe
+C:\Users\stask\source\repos\console\console\bin\Debug\console.pdb
+C:\Users\stask\source\repos\console\console\obj\Debug\console.exe
+C:\Users\stask\source\repos\console\console\obj\Debug\console.pdb
